@@ -18,3 +18,4 @@ pring("Hello")
 | Documentation | Clear and concise | **Done** |
 | Code Samples | Python and JS | `Pending` |
 | Images | High resolution | :white_check_mark: |
+
